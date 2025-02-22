@@ -1,2 +1,2 @@
 # local---cafe-management-demoproject
-in thsi project i have used python and web frame works like flask and desgined a open source website for my clinet in local area for his daily sale and cafe order menu option for easy and minimal calculation so that he can speen free time with other work
+In this project, I leveraged Python and web frameworks like Flask to design an open-source website for a local café owner. The goal was to streamline daily sales tracking and simplify order management with an intuitive menu system. By automating calculations and reducing manual effort, this solution allows the owner to focus on other important aspects of the business, making operations smoother and more efficient.
